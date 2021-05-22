@@ -7,8 +7,10 @@
 + [GET] Xem bài viết
 + [POST] Đăng bài viết
 # Hướng dẫn
-```javascript
-- npm i
+```bash
+git clone https://github.com/Conganhdz/simple-blog.git
+cd simple-blog
+npm i
 ```
 - Thay link connect MongoDB
 - Password đăng bài: conganhdz
