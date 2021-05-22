@@ -7,7 +7,9 @@
 + [GET] Xem bài viết
 + [POST] Đăng bài viết
 # Hướng dẫn
+```javascript
 - npm i
+```
 - Thay link connect MongoDB
 - Password đăng bài: conganhdz
 - P/S: xóa dotenv cũng được vì tôi chưa dùng =))
