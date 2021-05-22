@@ -1,0 +1,17 @@
+<section class="text-gray-600 body-font overflow-hidden">
+  <div class="container px-5 py-24 mx-auto">
+    <div class="-my-8 divide-y-2 divide-gray-100">
+      {{#each posts}}
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div>
+          <p class="text-sm font-medium text-gray-900 title-font mb-2">{{{this.createdAt}}}</p>
+          <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">{{this.title}}</h2>
+          <p class="leading-relaxed">{{this.preview}}</p>
+          <a href="/blog/{{this.slug}}" class="text-blue-500 py-1 px-3 hover:bg-blue-100 rounded inline-flex items-center mt-4">Read more &rarr;
+          </a>
+        </div>
+      </div>
+      {{/each}}
+    </div>
+  </div>
+</section>

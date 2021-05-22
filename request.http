@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/blog/store
+Content-Type: application/json
+
+{
+    "password": "conganhdz",
+    "title": "Hello World",
+    "description": "Conganhdz"
+}
