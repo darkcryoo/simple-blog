@@ -16,4 +16,4 @@ npm i
 - Password đăng bài: conganhdz
 - P/S: xóa dotenv cũng được vì tôi chưa dùng =))
 # Liên hệ
-https://www.facebook.com/CongAnh.Github/
+
