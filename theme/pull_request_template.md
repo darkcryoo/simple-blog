@@ -1,3 +1,0 @@
-- [x] I confirm that my commit does not break the template
-- [x] I confirm that I have not made changes to the colors.
-- [x] I understand that this pull request may be rejected
